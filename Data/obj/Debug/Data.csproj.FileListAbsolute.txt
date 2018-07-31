@@ -1,0 +1,14 @@
+C:\Users\EMMANUEL\source\repos\Calculator\Data\bin\Debug\Data.dll.config
+C:\Users\EMMANUEL\source\repos\Calculator\Data\bin\Debug\Data.dll
+C:\Users\EMMANUEL\source\repos\Calculator\Data\bin\Debug\Data.pdb
+C:\Users\EMMANUEL\source\repos\Calculator\Data\bin\Debug\Commons.dll
+C:\Users\EMMANUEL\source\repos\Calculator\Data\bin\Debug\EntityFramework.dll
+C:\Users\EMMANUEL\source\repos\Calculator\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EMMANUEL\source\repos\Calculator\Data\bin\Debug\Commons.pdb
+C:\Users\EMMANUEL\source\repos\Calculator\Data\bin\Debug\EntityFramework.xml
+C:\Users\EMMANUEL\source\repos\Calculator\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EMMANUEL\source\repos\Calculator\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\EMMANUEL\source\repos\Calculator\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\EMMANUEL\source\repos\Calculator\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\EMMANUEL\source\repos\Calculator\Data\obj\Debug\Data.dll
+C:\Users\EMMANUEL\source\repos\Calculator\Data\obj\Debug\Data.pdb
