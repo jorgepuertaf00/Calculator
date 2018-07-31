@@ -179,7 +179,6 @@ namespace WsCalculator.Controllers
             {
                 XEviTrackingId = headers.GetValues("XEviTrackingId").FirstOrDefault();
 
-
                 OperationDTO operation = new OperationDTO()
                 {
                     Calculation = (context.UnaryOperationStrategy.OperatorCode + rootRequest.Number) + "=" + rootResponse.Square,
