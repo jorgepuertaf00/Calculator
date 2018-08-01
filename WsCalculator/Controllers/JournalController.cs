@@ -11,7 +11,6 @@ namespace WsCalculator.Controllers
     [RoutePrefix("api/journal")]
     public class JournalController : ApiController
     {
-
         private readonly JournalDBOperations journalDBOperations = new JournalDBOperations();
 
         /// <summary>
